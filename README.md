@@ -6,7 +6,7 @@ El proyecto incluye la implementación de clases en Java, compilación y ejecuci
 
 ## Integrantes
 - Jissell Gabriela Velasquez Arapa
-- Randy Alonso Segales Hillpa
+- Yoselin Rosenda Ccapera Herencia
 
 ## Instrucciones para ejecutar
 1. Clonar el repositorio:
